@@ -12,7 +12,7 @@ Pais: México
   - [✓] Tercer problema
   - [✓] Cuarto problema
   - [✓] Quinto problema
-  - [ ] Opcional
+  - [✓] Opcional
 
 ## ¿Como explicarias el proposito de este proyecto? (opcional)
 
